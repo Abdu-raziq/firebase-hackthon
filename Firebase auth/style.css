@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+a{
+    text-decoration: none !important;
+}
+.header{
+    background-color: #2C73EB;
+    height: 300px;
+    padding: 20px;
+}
+.heading{
+    color: white !important;
+    font-size: 40px !important;
+}
+.Sign,
+.login{
+    background-color: #2C73EB !important;
+    color: white !important; 
+    border: 2px solid;
+    padding: 10px 30px;
+    border-radius: 20px;
+}
+.insert{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+
+}
+.blog{
+    margin-top: 30px;
+}
+.card{
+    margin-bottom: 10px;
+ }
+#Forgot{
+    text-decoration: none !important;
+    color: #2C73EB !important;
+    cursor: pointer !important;
+}
+p{
+    color: #8692A6;
+}
+.main-wrapper{
+    display: flex;
+    align-items: center;
+}
+
+.main-wrapper .image{
+    width: 50%;
+    height: 100vh;
+    background-color: #2C73EB;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main-wrapper .inputs{
+    width: 50%;
+    height: 100vh;
+}
+.inputs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputs .content{
+    width: 70%;
+    height: 500px;
+}
+.btn{
+    width: 100% !important;
+    background-color: #2C73EB !important;
+    margin-top: 10px !important;
+}
+.form-control{
+    /* border: none !important; */
+    padding: 15px !important;
+}
+.para
+{
+    margin-top: 20px;
+}
+.center{
+    text-align: center;
+    margin-top: 20px;
+}
